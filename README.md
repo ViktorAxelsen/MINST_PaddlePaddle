@@ -44,6 +44,7 @@
 
 **若需检测acc，则输入python main.py test_voting即可**
 **模型融合准确率为0.9961**
+
 **如需复现：**
 - ResNet50训练batch_size为64，训练30个epoch，每10个epoch后学习率衰减10倍
 - 其他模型，batch_size为2048，其他同上
